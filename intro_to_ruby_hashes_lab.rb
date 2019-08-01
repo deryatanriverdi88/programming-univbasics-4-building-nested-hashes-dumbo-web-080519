@@ -24,8 +24,12 @@ def monopoly_with_third_tier
 	    {
 	      :reading_railroad => {},
 	      :pennsylvania_railroad => {},
+<<<<<<< HEAD
 	      :b_and_o_railroad => { },
 	      :shortline => {}
+=======
+	      :b_and_o_railroad => {}
+>>>>>>> 896f18c459f829ff2bb52911fd0cea6b5e195330
 	    },
 	    :rent_in_dollars => 
 	    {
@@ -38,6 +42,7 @@ def monopoly_with_third_tier
 	  }
 end
 
+<<<<<<< HEAD
 
 
 def monopoly_with_fourth_tier
@@ -73,3 +78,9 @@ def monopoly_with_fourth_tier
 	   }
 	  }
 end
+=======
+def monopoly_with_fourth_tier
+	#copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
+
+end
+>>>>>>> 896f18c459f829ff2bb52911fd0cea6b5e195330
